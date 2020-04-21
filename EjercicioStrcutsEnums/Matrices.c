@@ -1,5 +1,8 @@
 ﻿#include "Matrices.h"
 #include <string.h>
+
+/* Esta muy bien organizado tu codigo, ojo con el estándar de nombramiento para zodiaco */
+
 //struct que pide datos de personas
 persona_t llenarPersona(){
 	persona_t persona;

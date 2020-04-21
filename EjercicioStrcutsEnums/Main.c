@@ -2,7 +2,7 @@
 
 int mostrarMenu() {
 //menu de opciones
-		int opcion = 0,resultado;
+		int opcion = 0,resultado; // Luisa: no estas usando la función resultado
 		printf("\nOpciones que puedes realizar\n");
 		printf("1. Agregar un usuario\n");
 		printf("2. Imprimir matriz\n");
